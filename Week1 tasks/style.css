@@ -1,0 +1,14 @@
+body{
+    background-color: darkgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ 
+h1{
+    color: crimson;
+    font-size: larger;
+}
+
+p{
+    color:blue;
+    font-size: large;
+}
